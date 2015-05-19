@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 通用 -->
+    <color name="app_default_background">#F6E7DC</color>
+    <color name="purple">#663399</color>
+    <color name="light_blue">#498ABE</color>
+    <color name="half_transparent">#5fffffff</color> <!-- 半透明效果前两位从00-99(透明-不怎么透明) -->
+    <color name="transparent_30">#6f000000</color>
+    <color name="transparent_70">#af000000</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- 赚积分模块 -->
+    <color name="head_tip">#989288</color>
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="help_view">#ff404040</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="share_text">#ff000000</color>
+    <color name="share_view">#ffffffff</color>
+    <color name="status_view">#50000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="viewfinder_frame">#ff9808</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="b_black">#80000000</color>
+    <color name="black">#FF000000</color>
+    <color name="dkgray">#FF444444</color>
+    <color name="ltgray">#FFCCCCCC</color>
+    <color name="red">#FFFF0000</color>
+    <color name="green">#FF00FF00</color>
+    <color name="greentext">#77B428</color>
+    <!-- <color name="blue">#FF0000FF</color> -->
+    <color name="blue">#FF3399FF</color>
+    <color name="yellow">#FFFFFF00</color>
+    <color name="cyan">#FF00FFFF</color>
+    <color name="magenta">#FFFF00FF</color>
+    <color name="orange">#ffff6600</color>
+    <color name="gray">#ff666666</color>
+    <color name="low_gray">#ffcccccc</color>
+    <color name="lightgray">#ff999999</color>
+    <color name="white">#ffffffff</color>
+    <color name="white_gray">#ffeeeeee</color>
+    <color name="red_text">#D20000</color>
+    <color name="pink">#FF7BA9</color>
+    <color name="orchid">#DA70D6</color>
+    <color name="btn_bg">#DEDABD</color>
+    <color name="shop_cart_bg">#F0E9E9</color>
+    <color name="shop_seckill_top_color">#444444</color>
+    <color name="transparent_background">#00ffffff</color>
+
+    <!-- 附近的人 -->
+    <color name="name">#153765</color>
+    <color name="distance">#686868</color>
+    <color name="background">#F8F8F8</color>
+
+    <!-- 热门偏好 -->
+    <color name="prefrence_color_1">#5FA6DA</color>
+    <color name="prefrence_color_2">#55DEA6</color>
+    <color name="prefrence_color_3">#FF7659</color>
+    <color name="prefrence_color_4">#31B1FC</color>
+    <color name="prefrence_color_5">#9E7AC2</color>
+    <color name="prefrence_color_6">#F36176</color>
+
+    <!-- 我的关注 -->
+    <color name="myFocusOn_normal">#DFDFDF</color>
+    <color name="myFocusOn_press">#D1D1D1</color>
+    <!-- 选择多个图片 -->
+    <color name="black_overlay">#66000000</color>
+    <color name="none_color">#00000000</color>
+    <color name="bule_overlay">#660D92DD</color>
+    
+    <color name="no_data_bg">#DBDBDB</color>
+    <color name="no_data_text">#ADADAD</color>
+
+    <!-- 乐友动态 -->
+    <color name="trend_username">#5076a3</color>
+    <color name="trend_content">#4a4a4a</color>
+    <color name="trend_comment_name">#40E0D0</color>
+    <color name="chat_messagedel">#f2614e</color>
+
+    <!-- 我的粉丝 -->
+    <color name="fan1">#FA6567</color>
+    <color name="fan2">#de5557</color>
+    <color name="fan3">#F67649</color>
+    <color name="fan4">#e56d42</color>
+    <color name="fan5">#58B5E1</color>
+    <color name="fan6">#52a5cc</color>
+    <color name="fan7">#84BF61</color>
+    <color name="fan8">#7ab05a</color>
+    <color name="fan9">#d7d7d7</color>
+    <color name="fan10">#c2c2c2</color>
+
+    <!-- 通讯录 -->
+    <color name="add_le_friend">#43b84d</color>
+    <color name="invite_le_friend">#e1ac4f</color>
+    <color name="grassgreen">#30c375</color>
+    <color name="lightblue">#60c8ed</color>
+
+    <!-- 商品详情 -->
+    <color name="normal_addtocar">#2D6E9B</color>
+    <color name="pressed_addtocar">#5389AF</color>
+    <color name="normal_buynow">#CD321C</color>
+    <color name="pressed_buynow">#DD5441</color>
+    <!-- 特产 -->
+    <color name="category_bg">#b9b9b9</color>
+    <color name="popu_bg">#60000000</color>
+    <color name="title_color_trans">#50E72F17</color>
+    <color name="title_color">#E72F17</color>
+    <color name="city_normal__background">#00000000</color>
+    <color name="city_pressedl__background">#80000000</color>
+    <color name="screening_clor">#FFFFFF</color>
+    <color name="specialty_background">#EEEEEE</color>
+    <color name="normal__background">#FFFFFF</color>
+    <color name="pressed_background">#EBEBEB</color>
+    <color name="price_color">#DD5441</color>
+    <color name="special_select_text">#FFDD5441</color>
+    <color name="special_backgroud">#FFEEEEEE</color>
+    <color name="special_line_color">#DCDCDC</color>
+    <color name="special_text_color">#FFDD5441</color>
+    <color name="item_bg_normal">#FFFFFFFF</color>
+    <color name="item_bg_pressed">#FFF2F2F2</color>
+    <color name="gray_backgroup">#ff626262</color>
+    <color name="gray_backgroup_new">#b0626262</color>
+
+    <!-- 特产详情 -->
+    <color name="wl_color">#FFDD5441</color>
+    <color name="red_cartnum_back">#ffdf0649 </color>
+    <!-- city list color -->
+    <color name="setting_line_color">#ffcccccc</color>
+    <color name="setting_bg_p">#fff5f5f5</color>
+    <color name="edit_text_bg">#ffE0E0E0</color>
+    <color name="city_group_bg">#fff6f6f4</color>
+    <color name="core_pink">#fff15b7f</color>
+    <color name="core_white">#ffffffff</color>
+    <color name="text_font_black">#ff444444</color>
+    <color name="setting_group_bg">#ffe4e4e4</color>
+    <color name="item_color_normal">#FFFFFFFF</color>
+    <color name="item_color_pressed">#FFF9C6B7</color>
+    <color name="gridview_bg">#5E5A5A</color>
+    <color name="title_bg">#e62f16</color>
+    <color name="pay_text_grey_color">#ff848484</color>
+    <!-- 确认订单页面 -->
+    <color name="total_color">#DD5441</color>
+    <color name="backgroud_color">#FFEEEEEE</color>
+
+    <!-- 首页菜单 -->
+    <color name="home_menu_bg">#DEDEDE</color>
+    <color name="divie_line_bg">#dddddd</color>
+    <color name="divie_line_add_bg">#ffd0d0d0</color>
+    <!-- 支付宝 -->
+    <color name="dialog_tiltle_blue">#2277BB</color>
+    <color name="text_red">#DD5643</color>
+    <color name="btn_red_normal">#E72F17</color>
+    <color name="btn_red_pressed">#cc422e</color>
+    <color name="text_home_leshop_title">#050505</color>
+    <color name="text_home_leshop_content">#5F5F5F</color>
+    <color name="text_tip_title">#777777</color>
+    <color name="text_tip_value">#afafaf</color>
+    <color name="normal_cancel">#666666</color>
+    <color name="pressing_cancel">#5C5C5C</color>
+    <color name="user_leve_type">#5DB408</color>
+    <!-- 购物车 -->
+    <!-- 雪白色 -->
+    <color name="floralwhite">#FFFAF0</color>
+    <color name="dimgrey">#696969</color>
+    <!-- 退款 -->
+    <color name="help_ico_bg">#CDCCCC</color>
+
+    <!-- uidialog -->
+
+    <color name="boss_unipay_dialog">#00ffffff</color>
+    <color name="boss_unipay_c_tx">#ff000000</color>
+    <color name="boss_unipay_c_thin">#ffa6a6a6</color>
+    <color name="boss_unipay_c_thin0">#ffc8c7cc</color>
+    <color name="boss_unipay_c_thin1">#ff808080</color>
+    <color name="boss_unipay_c_thin2">#ffb2b2b2</color>
+    <color name="boss_unipay_c_thin3">#ff333333</color>
+    <color name="boss_unipay_c_thin4">#ffc8c8c8</color>
+    <color name="boss_unipay_c_white">#ffffffff</color>
+    <color name="boss_unipay_c_em">#ffff6600</color>
+    <color name="boss_unipay_c_em1">#ffff3b30</color>
+    <color name="boss_unipay_c_suc">#ff43c959</color>
+    <color name="boss_unipay_c_blue">#ff007aff</color>
+    <color name="boss_unipay_c_bluedeep">#ff0079ff</color>
+    <color name="boss_unipay_c_bluelight">#ff99caff</color>
+    <color name="boss_unipay_c_trans">#90000000</color>
+
+    <!-- 重新申请退款 -->
+    <color name="white_btn_text_color">#ff8e8e8e</color>
+    <color name="common_bg_color">#fff0f0f0</color>
+    <color name="common_alpha_black">#99000000</color>
+    <!-- 对话框背景 -->
+    <color name="common_dialog_normal">#F0F0F0</color>
+    
+    
+    <color name="card_green">#44B879</color>
+    <color name="card_orange">#FBA43B</color>
+    <color name="card_blue">#578ACB</color>
+    <color name="card_red">#E84934</color>
+    <color name="card_purple">#9079E5</color>
+    
+    <color name="alert_bg">#F1F1F1</color>
+    <color name="alert_bg_normal">#00ffffff</color>
+    <color name="alert_bg_please">#22000000</color>
+    
+    <color name="alert_link_change">#67A7C9</color>
+    
+    <color name="no_select_btn_bg">#b2b2b2</color>
+
+    <color name="line_color">#DCDCDC</color>
+
+
+
+    <color name="background_tab_pressed">#6633B5E5</color>
+
+
+    <!-- calendar    start-->
+    <color name="calendar_active_month_bg">#ffffff</color>
+    <color name="calendar_bg">#ffffffff</color>
+    <color name="calendar_divider">#ffbababa</color>
+    <color name="calendar_inactive_month_bg">#f3f3f3</color>
+    <color name="calendar_selected_day_bg">#ff379bff</color>
+    <color name="calendar_selected_range_bg">#ff96caff</color>
+    <color name="calendar_text_inactive">#40778088</color>
+    <color name="calendar_text_active">#ff778088</color>
+    <color name="calendar_text_selected">#ffffffff</color>
+    <color name="calendar_text_unselectable">#ADAFAE</color>
+    <color name="friend_circle_sign">#ff595c61</color>
+    <color name="friend_sex_boy">#ff61D095</color>
+
+    <color name="menu_list_bg">#ff2B2B2B</color>
+
+
+    <color name="special_order_line_color">#dedede</color>
+
+    <!-- calendar    end-->
+
+
+    <color name="expression_radiobutton_bg_normal">#FFFFFF</color>
+    <color name="expression_radiobutton_bg_pressed">#F0F0F0</color>
+
+
+    <!-- 卡券 -->
+    <color name="huiyuancard_bg">#e74a34</color>
+    <color name="chuzhicard_bg">#754ca5</color>
+    <color name="youhuiticket_bg">#00a862</color>
+    <color name="daijinticket_bg">#f49921</color>
+    <color name="shixiao_bg">#949494</color>
+
+
+
+    <!-- 特产颜色统一配置 -->
+    <color name="specialty_text_color">#4e4e4e</color>
+    <color name="specialty_text_color_a">#373737</color>
+    <color name="specialty_text_color_b">#9e9e9e</color>
+    <color name="specialty_price_color">#f04e58</color>
+
+    <color name="specialty_ico_bag">#5ab7ed</color>
+    <color name="specialty_ico_land">#f53561</color>
+    <color name="specialty_ico_farming">#67c60d</color>
+    <color name="specialty_ico_old">#f2551b</color>
+    <color name="specialty_ico_special">#654de4</color>
+    <color name="specialty_ico_speed">#fd231f</color>
+    <color name="specialty_transparent_white">#D8ffffff</color>
+    <color name="message_config_line_color">#999999</color>
+    <color name="logo_bg">#CACACA</color>
+</resources>

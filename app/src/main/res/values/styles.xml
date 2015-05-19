@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Light">
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <!-- 界面统一返回按钮样式 -->
+    <style name="back_button">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">45dip</item>
+        <item name="android:layout_height">50dip</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:src">@drawable/btn_back</item>
+        <item name="android:background">@null</item>
+    </style>
+
+    <style name="title_text">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+</resources>
